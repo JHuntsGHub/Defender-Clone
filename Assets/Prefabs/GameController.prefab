@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1714179255738918}
+  m_IsPrefabAsset: 1
+--- !u!1 &1714179255738918
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4038584014064038}
+  - component: {fileID: 114325939171947256}
+  m_Layer: 0
+  m_Name: GameController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4038584014064038
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1714179255738918}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114325939171947256
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1714179255738918}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32abf4b50db09c944b76f66829318a27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PlayerPrefab: {fileID: 1885247772485418, guid: 812ac95ed448c9344a04d4fa8e79d347,
+    type: 2}
+  Astronaut: {fileID: 1665501183865282, guid: 85f50f9df8f989f40963df993ac3b9fc, type: 2}
+  Lander: {fileID: 1362138154769746, guid: 8eda81ac388cca74480096300a822ae2, type: 2}
+  Mutant: {fileID: 1324602635622010, guid: 9ecaa3ee4474b564bbaa5b174f196de9, type: 2}
+  Baiter: {fileID: 1614973539361880, guid: 4d819ca9da351aa46b8e90a802bb6091, type: 2}
+  Bomber: {fileID: 1475349578763732, guid: 67b989fd2761dd243af47e444a05666f, type: 2}
+  Mothership: {fileID: 1390085966089030, guid: 6d8168081adfc8c4da507b0732372abe, type: 2}
+  Swarmer: {fileID: 1975497615173558, guid: c08bea8eeee61e64aa79f35547a15d8e, type: 2}

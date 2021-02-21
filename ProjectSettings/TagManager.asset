@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Laser
+  - Enemy
+  - BoundsCollider
+  - Astronaut
+  - Scanner
+  - SmartBomb
+  - WaveText
+  - PlayerLife
+  - ScoreText
+  - EnemyLaser
+  - Canvas_UI
+  - Canvas_Wave
+  - WaveCompleteText
+  - BonusScoreText
+  - Planet
+  - DataTransfer
+  - Bomb
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Scanner
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: FarStars
+    uniqueID: 2789170897
+    locked: 0
+  - name: Stars
+    uniqueID: 78279993
+    locked: 0
+  - name: Mountains
+    uniqueID: 3338626921
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Laser
+    uniqueID: 1828738979
+    locked: 0
+  - name: Astronaut
+    uniqueID: 939917609
+    locked: 0
+  - name: UI
+    uniqueID: 3897432187
+    locked: 0
+  - name: Player
+    uniqueID: 562079597
+    locked: 0
+  - name: Enemy
+    uniqueID: 1636368311
+    locked: 0

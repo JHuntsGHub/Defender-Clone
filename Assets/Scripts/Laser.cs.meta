@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 48a412b5dcc17744dbb9c6536ff50f4b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pewpew: {fileID: 8300000, guid: 4daabb9e15f5b204fa3163543068959c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
